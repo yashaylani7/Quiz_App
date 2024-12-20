@@ -32,7 +32,7 @@ Before running the project, ensure you have the following installed on your syst
 ### Clone the Project
 If you have Git installed, clone the repository:
 bash
-git clone https://github.com/your-repository-link/quiz-app.git
+git clone https://github.com/yashaylani7/Quiz_App.git
 
 Otherwise, download the ZIP file and extract it.
 
